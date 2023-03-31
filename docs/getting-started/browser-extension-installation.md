@@ -6,7 +6,7 @@ sidebar_position: 0
 
 The daily.dev browser extension will help you unlock the true power of daily.dev.
 
-It means daily.dev will show in a new tab and helps you form a daily reading habit (but don't worry you can [pause the new tab behaviour](/key-features/pause-new-tab.md) whenever you want!
+It means daily.dev will show in a new tab and helps you form a daily reading habit (but don't worry you can [pause the new tab behaviour](/key-features/pause-new-tab.md) whenever you want!)
 
 You also get access to [The Companion widget](/key-features/the-companion.md) when using the extension!
 
@@ -47,15 +47,15 @@ For Mac users: <kbd>CMD⌘</kbd> + <kbd>SHIFT⇧</kbd> + <kbd>B</kbd>
 
 Click on the three dots (⠇) on the top right corner of your Google Chrome browser. 
 
-Go to Bookmarks > Show Bookmarks Bar.
+Go to Bookmarks > Show Bookmarks Bar
 
 ## Adding custom shortcuts to daily.dev
 
-If you are using the daily.dev extension you have the option of adding custom shortcuts to make it easy to access your frequently used sites.
+If you are using the daily.dev extension you have the option of adding custom shortcuts to easily access your frequently visited sites.
 
-First click on the "Add shortcuts" button (1):
+The first step is to click on the "Add shortcuts" button (1):
 
-![Add shortcuts button, located towards the top right of your feed](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-1.jpg)
+![Add shortcuts button, located on the top right of your feed](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-1.jpg)
 
 A modal will appear with the following options:
 - My shortcuts (2)
@@ -65,10 +65,10 @@ A modal will appear with the following options:
 
 By default "My Shortcuts" will be shown. 
 
-If you want to configure your own shortcuts just add the full URL of each site into the list below (4) and then save your changes.
+If you want to configure to custom shortcuts just add the full URL of each site into the list below (4) and then save the changes.
 
 ### Importing shortcuts from Chrome
-Instead of entering your own shortcuts, you can import your most visited sites from Google Chrome.
+Instead of entering shortcuts manually, it is also possible import your most visited sites from Google Chrome.
 
 Click on "Most Visited Sites" (3) and you will see a second modal informing you that we need more permissions. 
 

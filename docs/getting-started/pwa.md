@@ -12,7 +12,7 @@ All you need to do is to visit this URL: https://app.daily.dev
 
 ### Add a shortcut to the PWA on iOS
 
-For iOS users, you can add a shortcut to your iPhone Home screen for quick access to the daily.dev web app!
+For iOS users, a shortcut can be added to iPhone Home screen for quick access to the daily.dev web app!
 
 Open the web app on Safari browser, tap the Share button, then tap "Add to Home Screen".
 
